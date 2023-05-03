@@ -1,0 +1,6 @@
+{
+  "extends": "./tsconfig.json",
+  "include": [
+    "vite.config.ts" // Agregar aquí el nombre de tu archivo
+  ]
+}
